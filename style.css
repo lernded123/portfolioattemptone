@@ -49,3 +49,10 @@ a {
   text-decoration: none;
   text-decoration-color: white;
 }
+
+a:hover {
+  color: grey;
+  text-decoration: underline;
+  text-underline-offset: 0.5rem;
+  text-decoration-color: rgb(181, 181, 181);
+}
